@@ -1,0 +1,26 @@
+.site-header {
+    background-color: rgba(0, 27, 58, 0.911);
+    color: rgb(226, 231, 255);
+    height: 100vh;
+    font-family: monospace;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.siteheadercontent {
+    margin: 20px;
+    text-align: center;
+}
+.profile-pic{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    box-shadow: black 2px 5px 5px;
+}
+.instagram-link{
+    color: rgb(226, 231, 255);
+}
+body{
+    margin:0;
+}
